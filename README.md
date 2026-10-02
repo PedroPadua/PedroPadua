@@ -23,10 +23,10 @@ em fluxos que rodam sozinhos.
 ## 📈 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&locale=pt_BR" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroPadua&show_icons=true&locale=pt_BR" />
 </p>
 
 ## 📫 Como me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU_LINKEDIN](https://www.linkedin.com/in/pedro-p%C3%A1dua-miguel-0a730b2ba/?isSelfProfile=true))
+[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedropaduam.0702@gmail.com)
