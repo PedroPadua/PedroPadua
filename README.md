@@ -9,6 +9,11 @@ em fluxos que rodam sozinhos.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![PyAutoGUI](https://img.shields.io/badge/PyAutoGUI-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![pdfplumber](https://img.shields.io/badge/pdfplumber-2CA0A0?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 - **Automação de rotinas**: PyAutoGUI para robôs de desktop, scripts agendados para rotinas recorrentes
@@ -19,12 +24,6 @@ em fluxos que rodam sozinhos.
 
 - 📂 Sistema de reorganização automática de PDFs contábeis — renomeia e move
   arquivos para pastas com base em dicionários de empresa, data e tipo de documento
-
-## 📈 Estatísticas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroPadua&show_icons=true&locale=pt_BR" />
-</p>
 
 ## 📫 Como me encontrar
 
